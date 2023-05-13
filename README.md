@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LwkyLion
-- 👀 I’m interested in fivem, anime, drugs. (the drugs one is a joke)
-- 🌱 I’m currently learning c++.
+- 👀 I’m interested in fivem, anime, weed.
+- 🌱 I’m currently learning Lua.
 - 💞️ I’m looking to collaborate on idk.
 - 📫 How to reach me Discord: LwkyLion#2995
 
